@@ -1,39 +1,13 @@
-# hmz
+
 # Ciao! 👋
+Una mia passione è giocare ai videogiochi
 
-Sono uno studente di Informatica e questo è l'inizio
-del mio portfolio tecnico.
+Con la tecnologia ho già avuto esperienza con le ai
 
-## 👤 Qualcosa su di me
+Durante il triennio mi piacerebbe imparare tante cose, 
 
-mi chiamo hamza achir e ho 16 anni
+in questo momento sul informatica non potrei far imparare niente hai miei compagni
 
-## ❤️ Le mie passioni
+Un giorno vorrei lavorare sul settore del informatica
 
-gioco a calcio
-
-
-
-## 💻 Tecnologia ed esperienze
-
-Ho già avuto occasione di utilizzare o conoscere:
-
-github e di usare html
-- ...
-- ...
-
-## 🧠 Una cosa che potrei insegnare ai miei compagni
-
-giocare a calcio
-
-## 🔍 Cosa mi piacerebbe imparare
-
-creare videogiochi
-
-## 🚀 Un progetto che mi piacerebbe realizzare
-
-creare dei giochi
-
-## 🎯 Guardando al futuro
-
-...
+Il mio profilo GitHub:
